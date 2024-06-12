@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Codes\\2048Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E59258-65FB-4C41-B654-7980F70F04DE}|2048Console\\2048Console.vcxproj|E:\\Codes\\2048Console\\2048Console\\2048.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5E59258-65FB-4C41-B654-7980F70F04DE}|2048Console\\2048Console.vcxproj|solutionrelative:2048Console\\2048.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2048.cpp",
+              "DocumentMoniker": "E:\\Codes\\2048Console\\2048Console\\2048.cpp",
+              "RelativeDocumentMoniker": "2048Console\\2048.cpp",
+              "ToolTip": "E:\\Codes\\2048Console\\2048Console\\2048.cpp",
+              "RelativeToolTip": "2048Console\\2048.cpp",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAABYDAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-21T16:14:23.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
